@@ -14,12 +14,13 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+```
 import numpy as np
 a = np.array([[1, 3], [2, 5]])
 b = np.array([5, -3])
 c = np.linalg.solve(a, b)
 print(c)
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/1fe23b89-6668-46f5-ae36-8820df446664)
 ## Result: 
